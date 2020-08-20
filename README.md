@@ -6,6 +6,11 @@ A redux application that lets you draw a picture in the browser! 🎨
 
 📫 How to reach me: ...
 develop.it4@gmail.com 
+
+🤔 I’m looking for help with ...
+
+TypeScript resources
+
 <!--
 **tuf75588/tuf75588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
