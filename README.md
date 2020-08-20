@@ -11,6 +11,11 @@ develop.it4@gmail.com
 
 TypeScript resources
 
+
+ 💬 Ask me about ...
+ 
+ Mechanical Keyboards!
+
 <!--
 **tuf75588/tuf75588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
