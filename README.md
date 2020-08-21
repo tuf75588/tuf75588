@@ -1,19 +1,16 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-
 A redux application that lets you draw a picture in the browser! 🎨
 
 📫 How to reach me: ...
 develop.it4@gmail.com 
 
 🤔 I’m looking for help with ...
-
 TypeScript resources
 
 
  💬 Ask me about ...
- 
  Mechanical Keyboards!
 
 <!--
