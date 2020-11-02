@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-A redux application that lets you draw a picture in the browser! 🎨
+Working through Epic React by Kent C. Dodds! 
 
 📫 How to reach me: ...
 develop.it4@gmail.com 
