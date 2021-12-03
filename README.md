@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-Working through Epic React by Kent C. Dodds! 
-
 📫 How to reach me: ...
 develop.it4@gmail.com 
 
